@@ -117,8 +117,6 @@
 		1BC1FEB816E7C74C002B1AE7 /* Set */ = {
 			isa = PBXGroup;
 			children = (
-				1BC1FEC116E7C74C002B1AE7 /* SetGameAppDelegate.h */,
-				1BC1FEC216E7C74C002B1AE7 /* SetGameAppDelegate.m */,
 				1BC1FECA16E7C74C002B1AE7 /* MainStoryboard.storyboard */,
 				1BC1FECD16E7C74C002B1AE7 /* SetGameViewController.h */,
 				1BC1FECE16E7C74C002B1AE7 /* SetGameViewController.m */,
@@ -130,6 +128,8 @@
 		1BC1FEB916E7C74C002B1AE7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1BC1FEC116E7C74C002B1AE7 /* SetGameAppDelegate.h */,
+				1BC1FEC216E7C74C002B1AE7 /* SetGameAppDelegate.m */,
 				1BC1FEBA16E7C74C002B1AE7 /* Set-Info.plist */,
 				1BC1FEBB16E7C74C002B1AE7 /* InfoPlist.strings */,
 				1BC1FEBE16E7C74C002B1AE7 /* main.m */,
@@ -454,6 +454,7 @@
 				1BC1FEE916E7C74D002B1AE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1BC1FEEA16E7C74D002B1AE7 /* Build configuration list for PBXNativeTarget "SetTests" */ = {
 			isa = XCConfigurationList;
@@ -462,6 +463,7 @@
 				1BC1FEEC16E7C74D002B1AE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
